@@ -2,6 +2,6 @@
 
 A minimalist bspwm-polybar config
 
-Gruvbox-dark theme
+Theme: Gruvbox-Dark
 
 ![example-image](images/bg-image.png)
