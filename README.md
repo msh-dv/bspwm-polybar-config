@@ -2,7 +2,7 @@
 
 A minimalist bspwm, picom, polybar config
 
-picom fork: [pjonaburg/icom](https://github.com/jonaburg/picom)
+picom fork: [pjonaburg/picom](https://github.com/jonaburg/picom)
 
 Theme: Gruvbox-Dark
 
